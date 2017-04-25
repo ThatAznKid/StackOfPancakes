@@ -1,0 +1,19 @@
+box
+100 400 0 80 80 80 
+sphere
+300 360 0 50 1
+torus
+200 200 0 20 100 1
+ident
+rotate
+y 5
+rotate
+z 5
+rotate
+x 5
+move
+50 -50 0
+apply
+display
+save
+pic.png
